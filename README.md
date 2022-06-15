@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Angga</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angg07" alt="angg07" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/0x4n69a" target="blank"><img src="https://img.shields.io/twitter/follow/0x4n69a?logo=twitter&style=for-the-badge" alt="0x4n69a" /></a> </p>
 
 - 🔭 I’m currently working on **Freelance**
 
 - 🌱 I’m currently learning **React JS, Blockchain, Web3**
+
+- 💬 Ask me about **PHP, Laravel, Javascript**
 
 - 📫 How to reach me **muhammadangga0704@gmail.com**
 
@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angg07&show_icons=true&locale=en" alt="angg07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angg07&" alt="angg07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angg07&theme=dark" alt="angg07" /></p>
