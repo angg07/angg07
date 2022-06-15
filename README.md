@@ -14,11 +14,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/0x4n69a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x4n69a" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/muhammad-angga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muhammad-angga/" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad.a.syamsul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad.a.syamsul" height="30" width="40" /></a>
-<a href="https://instagram.com/@0x4n96a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@0x4n96a" height="30" width="40" /></a>
-<a href="https://medium.com/@anggasyamsul70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anggasyamsul70" height="30" width="40" /></a>
+<a href="https://twitter.com/0x4n69a" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x4n69a" height="30" width="40" />
+ </a>
+<a href="https://linkedin.com/in/muhammad-angga/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muhammad-angga/" height="30" width="40" />
+ </a>
+<a href="https://fb.com/muhammad.a.syamsul" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad.a.syamsul" height="30" width="40" />
+ </a>
+<a href="https://instagram.com/@0x4n96a" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@0x4n96a" height="30" width="40" />
+ </a>
+<a href="https://medium.com/@anggasyamsul70" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anggasyamsul70" height="30" width="40" />
+ </a>
 </p>
 
 <p align="left"> <a href="https://twitter.com/0x4n69a" target="blank"><img src="https://img.shields.io/twitter/follow/0x4n69a?logo=twitter&style=for-the-badge" alt="0x4n69a" /></a> </p>
