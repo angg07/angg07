@@ -1,73 +1,118 @@
-<h1 align="center">Hi there 👋, I'm Angga</h1>
-<p align="center"> <img src="img/readmebox.svg" alt="ANGGA · LARAVEL · VUE+GO · DOCKER" /> </p>
-<h3 align="center">Web Developer from Indonesia 🇮🇩 — building clean, reliable web apps</h3>
+<table>
+  <tr>
+    <td width="68%" align="center">
+      <sub>RECRUITER SIGNAL BRIEF · angg07</sub>
+      <h1>Angga</h1>
+      <h2>Full-Stack Web Developer</h2>
+      <p>Building clean, reliable web apps with Laravel, Vue and Docker.</p>
+      <p><b>● Open to freelance and full-time roles</b></p>
+      <p><sub>Based in Jakarta, Indonesia 🇮🇩</sub></p>
+      <p>
+        <a href="https://linkedin.com/in/muhammad-angga/">LinkedIn</a> &nbsp;·&nbsp;
+        <a href="mailto:anggasyamsul70@gmail.com">Email</a> &nbsp;·&nbsp;
+        <a href="https://medium.com/@anggasyamsul70">Medium</a> &nbsp;·&nbsp;
+        <a href="https://github.com/angg07">GitHub</a>
+      </p>
+    </td>
+    <td width="32%" align="center">
+      <img src="https://github.com/angg07.png" width="200" alt="Angga GitHub avatar" />
+    </td>
+  </tr>
+</table>
+
+## What teams can evaluate quickly
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Role fit</h3>
+      <p>Full-stack web developer · PHP · Laravel · Vue/React · REST APIs</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Current focus</h3>
+      <p>Web apps, API design and database optimization, running on Docker</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Learning</h3>
+      <p>Go, Kotlin Multiplatform and applied AI/LLM tooling</p>
+    </td>
+  </tr>
+</table>
+
+## Proof at a glance
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;PHP+%7C+Laravel+%7C+Vue+%7C+React;Kotlin+%7C+Go+%7C+Python;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://www.gitskins.com/api/section/stats?username=angg07&theme=github-dark&mode=dark" alt="Angga GitHub proof metrics" />
 </p>
 
----
+## Selected work
 
-### ⚡ Brief About Me
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=angg07&theme=github-dark&mode=dark&repos=angg07%2Fabra%2Cangg07%2Faudio-to-text-whisper%2Cangg07%2Flaradock-81%2Cangg07%2Fcomic-book-downloader" alt="Angga selected projects" />
+</p>
 
-- 🔭 Currently working as a **Freelance Web Developer**
-- 💻 Focused on **Web Development, REST APIs & Database Optimization**
-- 🌱 Currently learning **Go, Kotlin Multiplatform & Applied AI/LLM**
-- 💬 Ask me about **PHP, Laravel, Vue/React, Docker**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/angg07/abra">abra</a></h3>
+      <p>Run web tests from plain instructions: an AI drives a real browser, then replays them as Playwright tests.</p>
+      <sub>JavaScript · Playwright</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/angg07/audio-to-text-whisper">audio-to-text-whisper</a></h3>
+      <p>Speech-to-text transcription with OpenAI Whisper.</p>
+      <sub>Python</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/angg07/laradock-81">laradock-81</a></h3>
+      <p>Docker dev environment for PHP 8.1 / Laravel projects.</p>
+      <sub>Dockerfile</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/angg07/comic-book-downloader">comic-book-downloader</a></h3>
+      <p>Downloader script for comic books.</p>
+      <sub>Python</sub>
+    </td>
+  </tr>
+</table>
 
-### 🛠 Tech Stack
+## Technical toolkit
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,ts,vue,react,nuxtjs,tailwind,mysql,postgres,redis,docker,linux&perline=12" alt="Core stack" />
 </p>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,kotlin,go,androidstudio,nodejs,nginx,git,githubactions,pytorch,figma&perline=12" alt="Also working with" />
 </p>
-
 <p align="center">
   <sub>Also: Livewire · Inertia.js · Jetpack Compose · Kotlin Multiplatform · Ollama · Grafana · Pest</sub>
 </p>
 
-### 📊 GitHub Stats
+## Consistency signal
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angg07&theme=tokyonight" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angg07&theme=tokyonight" alt="Top Languages by Repo" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angg07&theme=tokyonight" alt="Top Languages by Commit" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=angg07&theme=tokyonight" alt="GitHub Stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angg07&theme=tokyonight&utcOffset=7" alt="Productive Time" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=angg07&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
-### 📫 Connect with Me
-
-<p>
-  <a href="mailto:anggasyamsul70@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/muhammad-angga/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://medium.com/@anggasyamsul70">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://instagram.com/mhmdanggaa._">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <img src="https://www.gitskins.com/api/section/heatmap?username=angg07&theme=github-dark&mode=dark" alt="Angga contribution activity" />
 </p>
 
 ---
 
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      <h2>Let’s talk about the next build</h2>
+      <p>Open to thoughtful teams, ambitious products, and useful engineering work.</p>
+    </td>
+    <td width="30%" valign="top">
+      <a href="https://linkedin.com/in/muhammad-angga/">LinkedIn</a><br />
+      <a href="mailto:anggasyamsul70@gmail.com">Email</a><br />
+      <a href="https://medium.com/@anggasyamsul70">Medium</a><br />
+      <a href="https://instagram.com/mhmdanggaa._">Instagram</a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=angg07&style=flat-square&color=blue" alt="Profile views" />
+  <sub>Angga · recruiter-ready profile, layout inspired by <a href="https://www.gitskins.com">GitSkins</a></sub>
 </p>
